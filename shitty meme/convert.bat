@@ -1,9 +1,9 @@
 SET bgmus=The Laser Dance Song-cut.mp3
 SET textb='when you'
 SET textbs=200
-:border
+::border
 SET cbor=100
-:how many times you want it to loop
+::how many times you want it to loop
 SET loopc=7
 
 for %%a in (*.mp4) do (
